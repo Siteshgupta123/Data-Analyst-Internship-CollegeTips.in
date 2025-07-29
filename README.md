@@ -1,1 +1,1 @@
-# Data-Analyst-Intership -CollegeTips.in
+# Data Analyst Internship -CollegeTips.in
